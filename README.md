@@ -21,10 +21,11 @@ This project evaluates and ranks sustainability projects for a manufacturing com
 ## Project Structure
 ```
 Sustainability_MCDM_Project/
-│
-├── sustainability_projects.csv           (Dataset of sustainability projects)
-├── sustainability_mcdm_analysis.ipynb    (Jupyter Notebook with analysis)
-└── README.md                             (Project Documentation)
+
+── sustainability_projects.csv           (Dataset of sustainability projects)
+── sustainability_mcdm_analysis.ipynb    (Jupyter Notebook with analysis)
+── README.md                             (Project Documentation)
+── sustainability_project_scores.png     (Output)
 ```
 
 ## Setup Instructions
